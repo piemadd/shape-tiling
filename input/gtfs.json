@@ -1,4 +1,6 @@
 [
+  "amtrak/shapes/type_2.geojson",
+  "amtrak/shapes/type_3.geojson",
   "bart/shapes/type_1.geojson",
   "bart/shapes/type_3.geojson",
   "cta/shapes/type_1.geojson",
