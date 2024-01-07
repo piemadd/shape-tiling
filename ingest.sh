@@ -1,0 +1,1 @@
+tippecanoe -zg --projection=EPSG:4326 -o transit.pmtiles -l zcta allFeatures.geojson
